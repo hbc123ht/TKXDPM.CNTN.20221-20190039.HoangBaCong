@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Scene?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Scene xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+    <AnchorPane prefHeight="768.0" prefWidth="1366.0">
+      <children>
+         <ImageView fitHeight="196.0" fitWidth="188.0" layoutX="563.0" layoutY="294.0">
+            <image>
+               <Image url="@images/AIMS%202.PNG" />
+            </image>
+         </ImageView>
+      </children></AnchorPane>
+</Scene>
